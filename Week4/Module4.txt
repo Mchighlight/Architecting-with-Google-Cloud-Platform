@@ -1,0 +1,26 @@
+#Lab1 : Google Cloud Platform API Infrastructure Automation v1.5 超重要!!
+##Objectives
+* Create an IAM service account
+* Create a VM
+* Authorize it to use Google Cloud API using the Service Account
+* Install open-source software on the VM, configure the software, and test it by deploying a Hadoop cluster
+* Create a snapshot of the boot disk with the Service Account authority "baked in"
+* Recreate the clustermaker VM in a different region and test it by deploying another Hadoop cluster in the new region
+##Tasks
+Task 1: Create and authorize a VM to use the Cloud SDK
+Task 2: Customize the VM
+Task 3: Test the clustermaker
+Task 4: Take the custom solution global
+Task 5: Test your global deployment tool
+Task 6: Create tunnels
+Task 7: Create static routes
+Task 8: Verify VPN connectivity
+## DONE:
+* How to create an IAM service account.
+* How to create a VM.
+* How to authorize a VM to use Google Cloud API using the service account, which is a useful skill for creating automation tools.
+* How to Install open-source software on the VM.
+* How to configure and test the VM by deploying a Hadoop cluster.
+* How to create a global solution by generating a snapshot of the boot disk with the service account authority "baked in."
+* How to recreate the clustermaker VM in a different region and test it by deploying another Hadoop cluster in the new region.
+

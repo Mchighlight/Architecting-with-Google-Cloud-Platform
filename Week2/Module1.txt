@@ -1,0 +1,53 @@
+#Lab1 : Console and Cloud Shell v1.5
+##Objectvites
+* Get access to GCP.
+* Create a Cloud Storage bucket using the GCP Console.
+* Create a Cloud Storage bucket using Cloud Shell.
+* Become familiar with Cloud Shell features.
+## Task
+### Task 1: Create a bucket using the GCP Console
+* 學習使用console建立bucket
+### Task 2: Access Cloud Shell
+```
+gcloud: compute engine and other service
+gsutil: storage
+kubectl: contatiner engine
+bg: BigQuery
+```
+* 學習cloud shell基本用法
+### Task 3: Create a bucket using Cloud Shell
+* 學習使用cmd建立bucket
+### Task 4: Explore more Cloud Shell features
+* upload file to bucket
+### Task 5: Create a persistent state in Cloud Shell
+* persistent files versus in-persistent file
+
+## Video Demo
+* Create project
+* Delete project
+* List the config
+```
+gcloud config list
+```
+* Check project
+```
+gcloud config list | grep project
+```
+* Create project id and switch between different project
+```
+export PROJECT_ID =Yur project id
+gcloud config set project &PROJECT_ID
+```
+
+#Lab2 Infrastructure Preview v1.5
+##Objectives
+* Use Marketplace to build a Jenkins Continuous Integration environment.
+* Verify that you can manage the service from the Jenkins UI.
+ * Administer the service from the Virtual Machine host through SSH.
+
+* Task 1: Use Marketplace to build a deployment
+使用marketplace裝現成的部署包
+* Task 2: Examine the deployment
+* Task 3: Administer the service
+使用admins start stop service
+

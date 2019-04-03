@@ -1,0 +1,18 @@
+#Lab1 : Autoscaling v1.5 超重要!!
+##Objectives
+* Create a custom image for a web server
+* Create an instance template based on the custom image
+* Create a managed instance group
+* Create a load balancer
+* Stress test the autoscaler
+##Tasks
+Task 1: Create a custom image for a web server
+Task 2: Create an Instance Template based on the custom image
+Task 3: Create a managed instance group
+Task 4: Create a load balancer
+Task 5: Stress test the Autoscaler
+Task 6: Create tunnels
+Task 7: Create static routes
+Task 8: Verify VPN connectivity
+## DONE:
+當CPU用量超過最大流量時，利用Autoscaling新增VM

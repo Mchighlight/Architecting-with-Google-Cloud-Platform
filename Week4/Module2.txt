@@ -1,0 +1,19 @@
+#Lab1 : Virtual Machine Automation and Load Balancing v1.5 超重要!!
+##Objectives
+* Create a pool of VMs
+* Configure an external load balancer to use the pool
+* Place a load on the service and stop a VM to simulate an outage
+* Launch two more VMs in a secondary zone
+* Configure an internal load balancer
+* Test the internal load balancer
+##Tasks
+Task 1: Create three VMs using the startup script
+Task 2: Configure external network load balancing
+Task 3: Test the solution
+Task 4: Configure internal load balancing
+Task 5: Test the internal load balancer
+Task 6: Create tunnels
+Task 7: Create static routes
+Task 8: Verify VPN connectivity
+## DONE:
+In this lab you created a pool of web servers and directed traffic to them through an external network load balancer, thus distributing work among the servers. Then you tested for high availability by shutting down one of the servers. You then launched two additional web servers in a secondary zone and configured an internal load balancer for work distribution and availability.

@@ -1,0 +1,45 @@
+#Lab1 : Examining Billing data with BigQuery v1.5
+##Objectives
+* Sign in to BigQuery from the GCP Console
+* Create a dataset
+* Create a table
+* Import data from a billing CSV file stored in a bucket
+* Run complex queries on a larger dataset
+##Tasks
+Task 1: Use BigQuery to import data
+Task 2: Examine the table
+Task 3: Compose a simple query
+Task 4: Analyze a large billing dataset with SQL
+##Learns
+如何使用Bigquery去分析billings data
+此Lab提供不少檢索billing的方法
+
+#Lab2 : Resource Monitoring (Stackdriver) v1.5
+##Objectives
+* Enable Stackdriver Monitoring
+* Add charts to dashboards
+* Create alerts with multiple conditions
+* Create resource groups
+* Create uptime checks
+##Tasks
+Task 1: Create resources to monitor
+Task 2: Create a Stackdriver account
+Task 3: Custom dashboards
+Task 4: Alerting policies
+Task 5: Resource groups
+Task 6: Uptime monitoring
+##Learns
+使用stackdriver custom dashboardc和用量警告
+
+#Lab3: Error reporting and debugging( stackdriver ) v1.5
+##Objectives
+* Launch a simple Google App Engine application
+* Introduce an error into the application
+* Explore Stackdriver Error Reporting
+* Use Stackdriver Debugger to identify the error in the code
+* Fix the bug and monitor in Stackdriver
+##Tasks
+Task 1: Create an application
+Task 2: Explore Stackdriver Error Reporting
+#Learns
+利用stackerdriver　debugg，但使用工具只是App engine(本身不會用到)

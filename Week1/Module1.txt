@@ -1,0 +1,11 @@
+##Overview
+Week1將整個GCP的outline說明一遍，基本上沒有甚麼hand-on lab，但非常重要，建議第一次接觸GCP服務的人(不管是Devops, data engineer, backends)都至少要看過。
+##Done
+* Introducing Google Cloud Platform
+* Getting Started with Google Cloud Platform
+* Google Compute Engine and Networking
+* Google Cloud Platform Storage Options
+* Containers, Kubernetes, and Kubernetes Engine
+* Applications in the Cloud
+* Developing, Deploying, and Monitoring 
+* Big Data and Machine Learning

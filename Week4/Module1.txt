@@ -1,0 +1,21 @@
+#Lab1 : Virtual Private Networks (VPN) v1.5 超重要!!
+##Objectives
+* Create two custom networks and associated subnetwork
+* Create VPN gateways in each network
+* Establish static routes to enable the gateways to pass traffic
+* Configure static routes to pass traffic to the VPN gateway
+* Establish firewall rules to enable ICMP and SSH traffic
+##Tasks
+Task 1: Create the networks
+Task 2: Create the utility VMs
+Task 3: Create the firewall rules
+Task 4: Verify network connectivity
+Task 5: Enable lifecycle management
+Task 6: Create tunnels
+Task 7: Create static routes
+Task 8: Verify VPN connectivity
+## DONE:
+
+
+ESP
+UDP500

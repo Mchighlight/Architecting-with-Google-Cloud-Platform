@@ -1,0 +1,19 @@
+#Lab1 Creating Virtual Machines v1.5
+## Objectives
+基本安裝VMs
+* Create several standard VMs
+* Create advanced VMs
+
+#Lab2 Working with Virtual Machines v1.5 超重要
+## Objectives
+裝一個Minecaft server
+* Customize an application server
+* Install and configure necessary software
+* Configure network access
+* Schedule regular backups (snapshot的精華)
+Task 1: Create the VM
+Task 2: Prepare the data disk
+Task 3: Install and run the application
+Task 4: Allow client traffic
+Task 5: Schedule regular backups (超級重點可以配合視頻common compute engine action)
+Task 6: Server maintenance(寫script去啟動cronjob，目的是要maintain server)

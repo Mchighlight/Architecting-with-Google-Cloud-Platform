@@ -1,0 +1,61 @@
+#Lab1 : Cloud Storage v1.5 超重要!!
+* Create and use buckets
+* Set access control lists to restrict access
+* Use your own encryption keys
+* Implement version controls
+* Use directory synchronization
+* Share a bucket across projects using IAM
+
+Task 1: Preparation
+Task 2: Access control lists (ACLs)
+Task 3: Customer-supplied encryption keys (CSEK)
+Task 4: Rotate CSEK keys
+Task 5: Enable lifecycle management
+Task 6: Enable versioning
+Task 7: Synchronize a directory to a bucket
+Task 8: Cross-project sharing
+## DONE:
+```
+CSEK: Customer-supplied encryption key
+Use your own encryption keys
+Rotate keys
+ACL: Access control list
+Set an ACL for private, and modify to public
+Lifecycle management
+Set policy to delete objects after 31 days
+Versioning
+Create a version and restore a previous version
+Directory synchronization
+Recursively synchronize a VM directory with a bucket
+Cross-project resource sharing using IAM
+Use IAM to enable access to resources across projects
+```
+#Lab2 : Cloud SQL v1.5
+##Objectives
+* Create a Cloud SQL instance
+* Create a VM to serve as a database client and install software
+* Restrict access to the Cloud SQL instance to a single IP address
+* Download sample GCP billing data in *.csv format and load that into the database
+* Configure the Cloud SQL instance and the client to use SSL encryption
+## Task
+Task 1: Create a VM to serve as the database client
+Task 2: Create a Cloud SQL instance
+Task 3: Install the MySQL database client
+Task 4: Populate the database
+Task 5: Set up SSL encryption
+SSL認證加強安全
+
+external_address = 35.224.12.237
+
+
+#Lab3 :　Cloud Datastore v1.5
+##Objectives
+* Initialize Cloud Datastore
+* Create content in the database
+* Query the content using both GQL and Kind queries
+* Access the Cloud Datastore Admin console
+## Tasks
+* Task 1: Create a Cloud Datastore database
+* Task 2: Explore the query capability
+* Task 3: Create more entities
+* Task 4: Conduct more queries

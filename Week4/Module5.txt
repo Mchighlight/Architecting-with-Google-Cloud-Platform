@@ -1,0 +1,12 @@
+#Lab1 : Deployment Manager v1.5
+##Objectives
+* Download and review a set of Deployment Manager templates
+* Use the templates to deploy two networks and a VM instance
+##Tasks
+Task 1: Preparation
+Task 2: Examine the configuration files
+Task 3: Deploy the configuration
+Task 4: Explore resources in the Console
+Task 5: About Deployment Manager
+##Done
+此Lab沒有教如何寫deploy manager yaml只是稍微帶過流程

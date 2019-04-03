@@ -1,0 +1,14 @@
+#Lab1 Virtual Networking v1.5 超重要!!
+## Objectives
+* Create an auto-mode network, a custom-mode network, and associated subnetworks
+* Compare connectivity in the various types of networks
+* Create routes and firewall rules using IP addresses and tags to enable connectivity
+* Convert an auto-mode network to a custom-mode network
+* Create, expand, and delete subnetworks
+
+#Lab2 Bastion Host v1.5
+## Objectives
+假設懶得設定VPN就做一個Bastion Host,非常偷懶的方法
+* Create an application web server to represent a service provided to an internal corporate audience
+* Prevent the web server from access to or from the internet
+* Create a maintenance server, called a Bastion Host, to gain access to and verify internal connectivity to the application server
