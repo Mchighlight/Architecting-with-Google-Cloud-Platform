@@ -12,7 +12,7 @@ Lab運作方式:Qwiklabs會提供一組Google的帳號，帳號內已經擁有gc
 [Week4: Elastic Cloud Infrastructure: Scaling and Automation](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation)<br />
 [Week5: Elastic Cloud Infrastructure: Containers and Services](https://www.coursera.org/learn/gcp-infrastructure-containers-services)<br />
 * 第六週: 將前五週的內容做統整，並進行腦力激盪如何設計出高穩定、高擴張性的產品，主要的課程內容偏向於開發設計而非專注於實作上。<br />
-首先將產品成三大層，分別是Business logic layer, Data layer(storage)以及Presentations layer(Network)，一層一層去設計後，以SLO及SLI為服務的成長指標，最後會探討如何提升產品的安全性，及如何減少開發費用(VMs管控等等)<br />
+首先將產品成三大層，分別是Business logic layer, Data layer(storage)以及Presentations layer(Network)，一層一層去設計後，以SLO及SLI為服務的成長指標，最後會探討如何提升產品的安全性、如何減少開發費用(VMs管控等等)及loadbalance autoscaling設計方法。<br />
 lab中大量使用Deploy Managment去部署infrastructure，這些部署的概念必須對GCP有一定的了解，否則會不明白yaml及python檔內的內容<br />
 [Week6: Reliable Cloud Infrastructure: Design and Process](https://www.coursera.org/learn/cloud-infrastructure-design-process)<br />
 # Feedback
