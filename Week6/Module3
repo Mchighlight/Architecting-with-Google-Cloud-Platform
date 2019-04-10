@@ -1,0 +1,14 @@
+Deployment Manager: Beginning appserver
+## Objectives
+* Create a YAML Deployment Manager template from scratch.
+* Configure the properties correctly using information gathered from GCP.
+* Prune properties to just those you need.
+* Identify and resolve YAML syntax issues in a template.
+## Tasks
+Task 1: Create a Kubernetes cluster for network load balancing
+Task 2: Deploy nginx in Kubernetes
+Task 3: Undeploy nginx
+Task 4: Create the Kubernetes cluster for HTTP load balancing
+Task 5: Create and expose the services
+Task 6: Create an ingress object
+Task 7: Shut down the cluster

@@ -1,0 +1,26 @@
+#Deployment Manager: Full Production + (Stackdriver)
+## Objectives
+* Launch a cloud service from a collection of templates.
+* Configure basic black box monitoring of an application.
+* Create an uptime check to recognize a loss of service.
+* Establish an alerting policy to trigger incident response procedures.
+* Create and configure a dashboard with dynamically update charts.
+* Test the monitoring and alerting regimen by applying a load to the service.
+* Test the monitoring and alerting regimen by simulating a service outage.
+## Tasks
+Task1: Full Production Outline
+Task2: Clone the Deployment Manager sample templates
+Task3: Explore the sample files
+Task4: Customize the deployment
+Task5: Run the application
+Task6: Verify that the application is operational
+Task7: Enable monitoring for the project
+Task8: Configure an uptime check and alert policy for the application.
+Task9: Configure a dashboard with a couple of useful charts.
+Task10: Place a test load on the application.
+Task11: Create a test VM with Apache Bench
+Task12: Simulate a service outage.
+## Dones
+建立一個static與dynamic分離的frontend autoscaling instance group,擁有所有featured極高穩定度及高擴展性的服務
+
+forwarding_address=35.190.41.64

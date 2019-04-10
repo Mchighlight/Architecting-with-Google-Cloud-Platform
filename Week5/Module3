@@ -1,0 +1,14 @@
+#Lab1 Kubernetes Load Balancing v1.5
+## Objectives
+* Create a Kubernetes cluster using Google Kubernetes Engine with the built-in network load balancer
+* Deploy nginx into the cluster and verify that the application is working
+* Undeploy the application
+* Re-deploy the cluster using ingress to connect it to a Google Compute Engine HTTPS load balancer.
+## Tasks
+Task 1: Create a Kubernetes cluster for network load balancing
+Task 2: Deploy nginx in Kubernetes
+Task 3: Undeploy nginx
+Task 4: Create the Kubernetes cluster for HTTP load balancing
+Task 5: Create and expose the services
+Task 6: Create an ingress object
+Task 7: Shut down the cluster

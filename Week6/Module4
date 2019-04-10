@@ -1,0 +1,8 @@
+#Lab1 Deployment Manager: Adding load balancing
+## Objectives
+* Develop and deploy a service.
+* Configure a Deployment Manager template.
+* Create a deployable package using pip.
+* Follow best practices for testing an application manually prior to deploying it.
+* Investigate and gather information necessary to configure health checks.
+* Enable and verify that health check are functioning.
