@@ -16,7 +16,7 @@ Lab運作方式:Qwiklabs會提供一組Google的帳號，帳號內已經擁有gc
 lab中大量使用Deploy Managment去部署infrastructure，這些部署的概念必須對GCP有一定的了解，否則會不明白yaml及python檔內的內容<br />
 [Week6: Reliable Cloud Infrastructure: Design and Process](https://www.coursera.org/learn/cloud-infrastructure-design-process)<br />
 # Feedback
-課程雖說需要一個月完成，不過只要花費約兩週的時間就能完成，課程對devops或著是system engineering來說相當的重要，此外課程並非指單一對GCP進行解說，更重要的是雲端服務的設計邏輯，設計方法可不是能在Document內找到答案。<br />
+* 課程雖說需要一個月完成，不過只要花費約兩週的時間就能完成，課程對devops或著是system engineering來說相當的重要，此外課程並非指單一對GCP進行解說，更重要的是雲端服務的設計邏輯，設計方法可不是能在Document內找到答案。<br />
 不過要全然了解gcp，還是需要透過實作產品及去看官方的Document，Architecting-with-Google-Cloud-Platform Specialization算是對於想要了解gcp服務新手的painkiller，而非panacea。<br />
 
-還有想要取得google cloud architect證照，修完此specialization是不夠的，但我認為是必須的，課程中並未深入提到k8s engine(google產品主軸)及container技術，因此如果想要入手證照要對k8s有相當程度的了解。
+* 還有想要取得google cloud architect證照，修完此specialization是不夠的，但我認為是必須的，課程中並未深入提到k8s engine(google產品主軸)及container技術，因此如果想要入手證照要對k8s有相當程度的了解。
